@@ -6,7 +6,7 @@
 
 ## Experiment 1 — Remembering your own decisions
 
-- **Try it:** [here](https://self-model.github.io/memory_reconstruction/experiments/demos/experiment1/experiment.html)
+- **Try it:** [here](https://github.com/anonymised-salmon-tuna/1505698-memoryforself/experiments/demos/experiment1/experiment.html)
 - **Data:** `data/experiment1/`
 - **Experiment code:** `experiments/experiment1/`
 
