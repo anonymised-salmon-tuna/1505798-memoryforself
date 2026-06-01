@@ -299,9 +299,9 @@
                     p.setup = function () {
 
                         p.createCanvas(p.windowWidth, p.windowHeight);
-                        images.ruby = p.loadImage('./experiment4/assets/ruby.png');
-                        images.emerald = p.loadImage('./experiment4/assets/emerald.png');
-                        images.stone = p.loadImage('./experiment4/assets/stone.png');
+                        images.ruby = p.loadImage('../../experiment4/assets/ruby.png');
+                        images.emerald = p.loadImage('../../experiment4/assets/emerald.png');
+                        images.stone = p.loadImage('../../experiment4/assets/stone.png');
                         p.textFont('Inter');
                         p.frameRate(60);
                         setupStimuli();
@@ -1010,7 +1010,7 @@
 
 
             try {
-                const response = await fetch('./experiment4/assets/nouns.json');
+                const response = await fetch('../../experiment4/assets/nouns.json');
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const wordData = await response.json();
                 NOUNS = wordData.nouns;
@@ -1036,7 +1036,7 @@
 
             const preload = {
                 type: 'preload',
-                images: ['./experiment4/assets/ruby.png', './experiment4/assets/emerald.png', './experiment4/assets/emerald.png'],
+                images: ['../../experiment4/assets/ruby.png', '../../experiment4/assets/emerald.png', '../../experiment4/assets/emerald.png'],
             };
             timeline.push(preload);
 
