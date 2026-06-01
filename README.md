@@ -14,20 +14,20 @@
 ## Experiment 2 — Explicit rule knowledge
 
 - **Try it:** [here](https://anonymised-salmon-tuna.github.io/1505798-memoryforself/experiments/demos/experiment2/experiment.html)
-- **replay:** [here](- **replay:** [here](https://self-model.github.io/memory_reconstruction/experiments/experiment2/replay_exp2.html) 
+- **replay:** [here](- **replay:** [here](https://anonymised-salmon-tuna.github.io/1505798-memoryforself/experiments/experiment2/replay_exp2.html) 
 - **Data:** `data/experiment2/`
 - **Experiment code:** `experiments/experiment2/`
 
 ## Experiment 3 — Being correct vs reward
 
 - **Try it:** [here](https://anonymised-salmon-tuna.github.io/1505798-memoryforself/experiments/demos/experiment3/experiment.html)
-- **replay:** [here](- **replay:** [here](https://self-model.github.io/memory_reconstruction/experiments/experiment3/replay_exp3.html) 
+- **replay:** [here](- **replay:** [here](https://anonymised-salmon-tuna.github.io/1505798-memoryforself/experiments/experiment3/replay_exp3.html) 
 - **Data:** `data/experiment3/`
 - **Experiment code:** `experiments/experiment3/`
 
 ## Experiment 4 - Controlling for reward probability
 
 - **Try it:** [here](https://anonymised-salmon-tuna.github.io/1505798-memoryforself/experiments/demos/experiment4/experiment.html)
-- **replay:** [here](- **replay:** [here](https://self-model.github.io/memory_reconstruction/experiments/experiment4/replay_exp4.html) 
+- **replay:** [here](- **replay:** [here](https://anonymised-salmon-tuna.github.io/1505798-memoryforself/experiments/experiment4/replay_exp4.html) 
 - **Data:** `data/experiment4/`
 - **Experiment code:** `experiments/experiment4/`
